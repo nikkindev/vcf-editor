@@ -1,4 +1,4 @@
-# vcf_editor
+# vcf-editor
 A simple .vcf ver2.1 editor
 
 
